@@ -26,16 +26,21 @@ p{
 }
 button{
     margin-top:40px;
-    margin-right: 150px;
+    margin-right: 700px;
     padding: 20px 35px;
     font-size: 25px;
     font-family: "Cooper Black";
     border-radius: 15px;
-    box-shadow:  black 5px 5px;
-    background-color: deepskyblue;
+    box-shadow:  powderblue 5px 5px;
+    background-color: black;
     color:white;
 }
 button:hover{
     background-color: whitesmoke;
     color:black;
+}
+li{
+    font-family: "system-ui";
+    font-size: 20px;
+
 }
